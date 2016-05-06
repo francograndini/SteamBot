@@ -1,28 +1,29 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/r2ml39xoa5svu61y/branch/master?svg=true)](https://ci.appveyor.com/project/Jessecar96/steambot/branch/master)
 
-**SteamBot** is a bot written in C# for the purpose of interacting with Steam Chat and Steam Trade.  As of right now, about 8 contributors have all added to the bot.  The bot is publicly available under the MIT License. Check out [LICENSE] for more details.
+**SteamBot** é um bot escrito em C# com o propósito de interagir com o Steam Chat e Steam Trade. Até agora, cerca de 8 contribuintes adicionaram ao bot. O bot é disponivel publicamente sob a licença do MIT. Confira a [LICENSE] para mais detalhes.
 
-There are several things you must do in order to get SteamBot working:
+Existem algumas coisas que vc deve fazer para fazer o SteamBot funcionar:
 
-1. Download the source.
-2. Compile the source code.
-3. Configure the bot (username, password, etc.).
-4. *Optionally*, customize the bot by changing the source code.
+1. Baixar a fonte.
+2. Compilar o código fonte.
+3. Configurar o bot (username, password, etc.).
+4. *Optionally*, configurar o bot mudando o código fonte.
 
-## Getting the Source
+## Pegando a fonte
 
-Retrieving the source code should be done by following the [installation guide] on the wiki. The install guide covers the instructions needed to obtain the source code as well as the instructions for compiling the code.
+Recuperando o codigo fonte deve ser feito seguindo o guia de instalação no wiki. O guia de instalação cobre as instruçoes necessarias para obter o codigo fonte assim como as instruçoes para compilar o codigo.
 
-## Configuring the Bot
+## Configurando o bot
 
-See the [configuration guide] on the wiki. This guide covers configuring a basic bot as well as creating a custom user handler.
+Veja o guia de configuração no wiki. Esse guia cobre a configuração de um bot basico assim como a criação de um manuseador personaliz.
 
-## Bot Administration
+## Administração do bot
 
-While running the bots you may find it necessary to do some basic operations like shutting down and restarting a bot. The console will take some commands to allow you to do some this. See the [usage guide] for more information.
+Enquanto rodando os bots vc pode achar necessario fazer algumas operaçoes basicas como fechar e reiniciar um bot. O console ira pegar alguns comandos para permitir que vc faça algo do tipo. Veja guia de uso para mais informação.
 
 ## More help?
-If it's a bug, open an Issue; if you have a fix, read [CONTRIBUTING.md] and open a Pull Request.  If it is a question about how to use SteamBot with your own bots, visit our subreddit at [/r/SteamBot](http://www.reddit.com/r/SteamBot). Please use the issue tracker only for bugs reports and pull requests. The subreddit should be used for all other  discussions.
+
+Se for um bug, abra uma reclamação; se vc tem uma solução, leia [CONTRIBUTING.md] e abra um Pull Request. Se for uma questao sobre como usar SteamBot com seus proprios bots, visite nosso subreddit em [/r/SteamBot](http://www.reddit.com/r/SteamBot).
 
 
 A list of contributors (add yourself if you want to):
